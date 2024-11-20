@@ -18,10 +18,10 @@ Stock Optimus is an LSTM-based deep learning model designed for accurate predict
 ## User Interface
 **Register and Login:** Integrated to mongo DB in the backend.
 Register
-![Screenshot 2024-11-15 120806](https://github.com/user-attachments/assets/6b025feb-a8b3-4ccb-b464-220afe7f1248)
+![Screenshot 2024-11-15 120806](https://res.cloudinary.com/drtt3kn2r/image/upload/v1732124948/IMG-20241120-WA0020_wdnukx.jpg)
 
 Login with registered credentials
-![Screenshot 2024-11-15 121015](https://github.com/user-attachments/assets/a4da7d70-8256-428f-825a-f773e35bbfa3)
+![Screenshot 2024-11-15 121015](https://res.cloudinary.com/drtt3kn2r/image/upload/v1732124947/IMG-20241120-WA0021_xj73su.jpg)
 
 
 **Home:** Displays current weather conditions and quick access buttons to view the dashboard or forecast.
