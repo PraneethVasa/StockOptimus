@@ -4,6 +4,7 @@ Stock Optimus is an LSTM-based deep learning model designed for accurate predict
 
 ## Key Features:
 **High-Accuracy Forecasting:** The LSTM model provides accurate predictions based on historical and current market data.
+
 **Real-Time Data Integration:** Utilizes live data from official sources, ensuring forecasts reflect actual market conditions across India.
 **Weather Data Integration:** Includes real-time weather conditions via an API to account for potential natural calamities affecting prices.
 **Visual Dashboard:** A user-friendly interface with comprehensive visualizations for quick analysis of price trends and forecasts.
