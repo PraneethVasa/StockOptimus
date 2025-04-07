@@ -37,15 +37,15 @@ Stock Optimus is an LSTM-based deep learning model designed for accurate predict
 
 ![dashboard_chatbot](./Assets/dashboard_chatbot.png)
 
-**Forecast Input: Select state, commodity, and duration.**
+**Forecast Page: Alows user to see future trend**
 
 ![forecast1](./Assets/forecast1.png)
 
-**Forecast Result: Visualized prediction for user input.**
+**Forecast Input: Select state, commodity, and duration.**
 
 ![forecast1.1](./Assets/forecast1.1.png)
 
-**Forecast Graph: Graphical representation of price trends.**
+**Forecast Result: Price Trend and recommedation for policymakers**
 
 ![forecast2](./Assets/forecast2.png)
 
