@@ -3,17 +3,17 @@
 Stock Optimus is an LSTM-based deep learning model designed for accurate prediction and forecasting of prices for 22 essential food commodities across India. The model is powered by real-time data collected from 550 price reporting centers nationwide, ensuring precise and reliable forecasts tailored to the unique market dynamics of India. This project incorporates data on weather conditions, seasonality, and market trends to support timely and informed decision-making by officials.
 
 ## Key Features:
-**High-Accuracy Forecasting:** The LSTM model provides accurate predictions based on historical and current market data.
-**Real-Time Data Integration:** Utilizes live data from official sources, ensuring forecasts reflect actual market conditions across India.
-**Weather Data Integration:** Includes real-time weather conditions via an API to account for potential natural calamities affecting prices.
-**Visual Dashboard:** A user-friendly interface with comprehensive visualizations for quick analysis of price trends and forecasts.
-**Buffer Stock Optimization:** Supports strategic market interventions by helping officials decide when to release buffer stocks to stabilize prices.
+- **High-Accuracy Forecasting:** The LSTM model provides accurate predictions based on historical and current market data.
+- **Real-Time Data Integration:** Utilizes live data from official sources, ensuring forecasts reflect actual market conditions across India.
+- **Weather Data Integration:** Includes real-time weather conditions via an API to account for potential natural calamities affecting prices.
+- **Visual Dashboard:** A user-friendly interface with comprehensive visualizations for quick analysis of price trends and forecasts.
+- **Buffer Stock Optimization:** Supports strategic market interventions by helping officials decide when to release buffer stocks to stabilize prices.
 
 ## Functionality: 
-**Data Collection:** Historical and real-time price data from the official site (http://consumeraffairs.nic.in/price-monitoring-cell/price-monitoring-cell) combined with weather data from an API.
-**Model Training:** The LSTM model is trained using data on crop seasonality, production estimates, emerging market trends, and more.
-**Forecasting:** Predicts price fluctuations and provides weekly or customizable forecasts.
-**Visual Insights:** The dashboard offers clear visual representation of data, enabling decision-makers to quickly understand price movements and trends.
+- **Data Collection:** Historical and real-time price data from the official site (http://consumeraffairs.nic.in/price-monitoring-cell/price-monitoring-cell) combined with weather data from an API.
+- **Model Training:** The LSTM model is trained using data on crop seasonality, production estimates, emerging market trends, and more.
+- **Forecasting:** Predicts price fluctuations and provides weekly or customizable forecasts.
+- **Visual Insights:** The dashboard offers clear visual representation of data, enabling decision-makers to quickly understand price movements and trends.
 
 ## User Interface
 **User Registration: Sign up to get started.**
