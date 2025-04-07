@@ -17,30 +17,45 @@ Stock Optimus is an LSTM-based deep learning model designed for accurate predict
 **Visual Insights:** The dashboard offers clear visual representation of data, enabling decision-makers to quickly understand price movements and trends.
 
 ## User Interface
-**Register and Login:** Integrated to mongo DB in the backend.
-Register
-![Screenshot 2024-11-15 120806](https://res.cloudinary.com/drtt3kn2r/image/upload/v1732124948/IMG-20241120-WA0020_wdnukx.jpg)
+**User Registration: Sign up to get started.**
 
-Login with registered credentials
-![Screenshot 2024-11-15 121015](https://res.cloudinary.com/drtt3kn2r/image/upload/v1732124947/IMG-20241120-WA0021_xj73su.jpg)
+![register](./Assets/register.png)
 
+**Login Screen: Secure login with registered credentials.**
 
-**Home:** Displays current weather conditions and quick access buttons to view the dashboard or forecast.
-![image](https://github.com/user-attachments/assets/7e05599e-3217-406d-b972-5245e2777dd1)
+![login](./Assets/login.png)
 
+**Home Page: Displays weather data and quick navigation.**
 
-**Forecast:** Users can input state, commodity type, and forecast duration to generate tailored predictions.
+![home](./Assets/home.png)
 
-![image](https://github.com/user-attachments/assets/2bcc844c-9915-4a0c-bf84-314ae4795ffc)
+**Dashboard: Visual overview of commodity trends.**
 
+![dashboard](./Assets/dashboard.png)
 
-![image](https://github.com/user-attachments/assets/80dda930-355f-453d-9b7d-f0092ce93339)
+**Dashboard Chatbot: Get instant insights via chatbot.**
 
+![dashboard_chatbot](./Assets/dashboard_chatbot.png)
 
-**Dashboard:** Visual charts and graphs displaying price trends for different commodities over selected periods.
-![image](https://github.com/user-attachments/assets/371bb403-2423-4400-afb7-e0f9db21ec53)
+**Forecast Input: Select state, commodity, and duration.**
 
-**User Profile and About Us:**  Access to personal account information and project background.
+![forecast1](./Assets/forecast1.png)
+
+**Forecast Result: Visualized prediction for user input.**
+
+![forecast1.1](./Assets/forecast1.1.png)
+
+**Forecast Graph: Graphical representation of price trends.**
+
+![forecast2](./Assets/forecast2.png)
+
+**User Profile: Manage your personal information.**
+
+![user_profile](./Assets/user_profile.png)
+
+**Edit Profile: Update account details.**
+
+![user_profile_edit](./Assets/user_profile_edit.png)
 
 ## Technical Details:
 Model Type: LSTM (Long Short-Term Memory) Deep Learning Model
